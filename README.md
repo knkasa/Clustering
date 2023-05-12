@@ -4,4 +4,6 @@ k-means, Hierarchical, and DBSCAN methods will be tested.
   For DBSCAN, need to determine eps.  
 
 Run as 
-- python cluster_analysis.py  <config file path>
+```
+python cluster_analysis.py  <config file path>
+```
