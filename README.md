@@ -7,3 +7,5 @@ Run as
 ```
 python cluster_analysis.py  <config file path>
 ```
+
+![image1](https://github.com/knkasa/Clustering/blob/main/Hierchical.png)
