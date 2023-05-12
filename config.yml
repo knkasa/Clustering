@@ -1,0 +1,8 @@
+ai_db:
+    url: "postgresql+psycopg2://inv-ai-role-adm-stg:jPCh22G8@mm-ai-db-ro.mm-stg.invastsec.com/ai_db"
+    read_replica: "postgresql+psycopg2://inv-ai-role-adm-stg:jPCh22G8@mm-ai-db-ro.mm-stg.invastsec.com/ai_db"
+    tables:
+        agent_decisions_tbl : agent_ai_decisions
+        ranking_tbl : signal_stats_ranking
+input_data:
+    use_iris_data: True
