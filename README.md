@@ -8,4 +8,5 @@ Run as
 python cluster_analysis.py  <config file path>
 ```
 
+The image below is the hierarchical graph using the famous Iris data.  
 ![image1](https://github.com/knkasa/Clustering/blob/main/Hierchical.png)
